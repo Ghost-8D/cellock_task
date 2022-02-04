@@ -19,7 +19,7 @@ Below will be your set of tasks to accomplish. Please work on each of these task
 2. [Refactoring](#refactoring)
 3. [Security](#security)
 4. [UI Creation](#ui-creation)
-
+5. [Create Swagger for APIs](#swagger-creation)
  
 
 ### 1.Implement Pagination
@@ -50,6 +50,10 @@ Please implement the following security controls for your system:
 ### 4.UI Creation 
 
 Please implement basic UI for displaying a list of rides 
+
+### 5.Swagger Creation 
+
+Implement Swagger documentation for APIs. 
 
 
 #### Success Criteria
