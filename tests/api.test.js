@@ -5,8 +5,8 @@ const request = require('supertest');
 const sqlite3 = require('sqlite3').verbose();
 const db = new sqlite3.Database(':memory:');
 
-const app = require('../src/app')(db);
-const buildSchemas = require('../src/schemas');
+const app = require('../src/server/app')(db);
+const buildSchemas = require('../src/server/schemas');
 
 describe('API tests', () => {
     before((done) => {
