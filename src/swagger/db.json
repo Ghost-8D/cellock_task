@@ -1,0 +1,65 @@
+{
+  "autoIncrement": 10,
+  "rides": [
+    {
+      "rideID": 1,
+      "startLat": 35.147567,
+      "startLong": 33.34585,
+      "endLat": 35.147519,
+      "endLong": 33.345936,
+      "riderName": "John Doe",
+      "driverName": "John Wick",
+      "driverVehicle": "Ford Mustang",
+      "created": "2022-02-05T17:28:29.387Z",
+      "updated": "2022-02-05T17:28:29.387Z"
+    },
+    {
+      "rideID": 2,
+      "startLat": 35.149567,
+      "startLong": 33.34085,
+      "endLat": 35.149519,
+      "endLong": 33.340936,
+      "riderName": "Hector Barbossa",
+      "driverName": "Cpt. Jack Sparrow",
+      "driverVehicle": "Black Pearl",
+      "created": "2022-02-05T17:29:13.177Z",
+      "updated": "2022-02-05T17:29:13.177Z"
+    },
+    {
+      "rideID": 3,
+      "startLat": 35.14757,
+      "startLong": 33.345856,
+      "endLat": 35.147595,
+      "endLong": 33.345943,
+      "riderName": "Patric",
+      "driverName": "Sponge Bob",
+      "driverVehicle": "Burger Car",
+      "created": "2022-02-05T17:31:09.943Z",
+      "updated": "2022-02-05T17:31:09.943Z"
+    },
+    {
+      "rideID": 4,
+      "startLat": 35.147567,
+      "startLong": 33.34585,
+      "endLat": 35.147519,
+      "endLong": 33.345936,
+      "riderName": "John Cena",
+      "driverName": "Undertaker",
+      "driverVehicle": "Funeral Chopper",
+      "created": "2022-02-05T19:28:29.676Z",
+      "updated": "2022-02-05T19:28:29.676Z"
+    },
+    {
+      "rideID": 8,
+      "startLat": 14.521997999,
+      "startLong": -75.817663343,
+      "endLat": 14.521997912,
+      "endLong": -75.817663396,
+      "riderName": "Hector Barbossa",
+      "driverName": "Cpt. Jack Sparrow",
+      "driverVehicle": "Black Pearl",
+      "created": "2022-02-05T20:42:14.883Z",
+      "updated": "2022-02-05T20:43:13.928Z"
+    }
+  ]
+}
